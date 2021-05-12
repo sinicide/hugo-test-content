@@ -2,9 +2,9 @@
 title: "Doggos"
 date: 2021-01-20T12:14:08-05:00
 lastMod: 2021-01-20T12:14:08-05:00
-categories: [ "tech" ]
-tags: [ "programming", "tech" ]
-description: "Talking about Hello World My Guy"
+categories: [ "pets" ]
+tags: [ "pets", "dogs", "training" ]
+description: "Talking about Doggos"
 disableComments: true
 draft: true
 ---
