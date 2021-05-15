@@ -2,18 +2,24 @@
 title: "Instagram and Shortcodes"
 date: 2021-05-03T12:09:08-05:00
 lastMod: 2021-05-03T12:09:08-05:00
+image: ""
 categories: [ "instagram" ]
-tags: [ "photography" ]
-description: "Showing Pictures"
+tags: [ "photography", "shortcodes" ]
+description: "Testing Hugo Shortcodes"
 disableComments: true
 draft: true
 ---
 
-Here is a post testing shortcodes
+# Quote
+{{< quote "It's not who I am underneath, but what I do that defines me." "Batman" >}}
+# Image
+{{< imgfig "https://media.giphy.com/media/5GoVLqeAOo6PK/source.gif" "image caption message" >}}
+
+# Embed Instagram
 {{< instagram CN2tDQ7BTP0 >}}
 
-How about a Tweet
+# Embed Tweet
 {{< tweet 1387376801224216579 >}}
 
-Youtube videos
+# Embed Youtube
 {{< youtube LPt6I1boPZY >}}
