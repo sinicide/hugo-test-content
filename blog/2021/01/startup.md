@@ -2,6 +2,7 @@
 title: "Start Up"
 date: 2021-01-01T02:14:08-05:00
 lastMod: 2021-01-01T02:14:08-05:00
+image: ""
 categories: [ "tech" ]
 tags: [ "programming", "tech" ]
 description: "Talking about Hello World My Guy"
