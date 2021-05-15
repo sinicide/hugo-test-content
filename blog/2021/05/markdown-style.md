@@ -92,8 +92,7 @@ Using 1. for each of them markdown will automatically number each
 ```
 
 # Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Giphy](https://media.giphy.com/media/1BfRhdymGVxDfnnHWZ/giphy.gif)
 ```
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
