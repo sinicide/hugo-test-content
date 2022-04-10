@@ -15,9 +15,6 @@ draft: true
 # Image
 {{< imgfig "https://media.giphy.com/media/5GoVLqeAOo6PK/source.gif" "image caption message" >}}
 
-# Embed Instagram
-{{< instagram CN2tDQ7BTP0 >}}
-
 # Embed Tweet
 {{< tweet 1387376801224216579 >}}
 
