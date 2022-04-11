@@ -16,7 +16,7 @@ draft: true
 {{< imgfig "https://media.giphy.com/media/5GoVLqeAOo6PK/source.gif" "image caption message" >}}
 
 # Embed Tweet
-{{< tweet 1387376801224216579 >}}
+{{< tweet user="bader_diedrich" id="1510321999305797636" >}}
 
 # Embed Youtube
 {{< youtube LPt6I1boPZY >}}
