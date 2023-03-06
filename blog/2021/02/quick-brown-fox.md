@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 title: "Quick Brown Fox"
 date: 2021-02-01T12:14:08-05:00
 lastMod: 2021-02-01T12:14:08-05:00

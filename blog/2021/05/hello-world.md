@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 title: "Hello World"
 date: 2021-05-01T12:14:08-05:00
 lastMod: 2021-05-01T12:14:08-05:00
@@ -6,7 +7,7 @@ image: "https://miro.medium.com/max/3840/1*Ja9gm1DpMCrmXKE2y5mk5w.jpeg"
 imageCaption: "Some text"
 categories: [ "tech" ]
 tags: [ "programming", "tech" ]
-description: "Talking about Hello World My Guy"
+description: "Talking about Hello World My Guy. The good old hello world and stuff my guy."
 disableComments: true
 draft: true
 ---

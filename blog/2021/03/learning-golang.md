@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 title: "Learning Golang"
 date: 2021-03-01T22:51:08-05:00
 lastMod: 2021-03-01T22:51:08-05:00

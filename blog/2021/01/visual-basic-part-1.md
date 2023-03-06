@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 title: "Visual Basic Part 1"
 date: 2021-01-01T12:14:08-05:00
 lastMod: 2021-01-01T12:14:08-05:00

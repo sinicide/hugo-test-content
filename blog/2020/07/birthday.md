@@ -1,4 +1,5 @@
 ---
+layout: "blog"
 title: "Some Birthday"
 date: 2020-07-04T12:14:08-05:00
 lastMod: 2020-04-01T12:14:08-05:00

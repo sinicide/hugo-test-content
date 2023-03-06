@@ -1,10 +1,12 @@
 ---
+layout: "blog"
 title: "Super Dope Keyboards"
 date: 2021-04-14T12:11:08-05:00
 lastMod: 2021-04-14T12:11:08-05:00
 categories: [ "keyboards" ]
 tags: [ "keyboards", "tech" ]
-description: "Very cool Keyboards"
+description: "Very cool Keyboards. What could be even cooler then a keyboard? Find out next time on dragon ball z!"
+youtubeId: PhaSRwWrdss
 disableComments: true
 draft: true
 ---

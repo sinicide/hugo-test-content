@@ -1,10 +1,11 @@
 ---
+layout: "blog"
 title: "Markdown Style"
 date: 2021-05-05T12:09:08-05:00
 lastMod: 2021-05-05T12:09:08-05:00
 categories: [ "markdown" ]
 tags: [ "programming", "tech" ]
-description: "Markdown Styles"
+description: "Markdown Styles, this would be a bit of a description on this subject. But since this is frontmatter, I'm trying to keep it light."
 disableComments: true
 draft: true
 ---
@@ -92,15 +93,23 @@ Using 1. for each of them markdown will automatically number each
 ```
 
 # Images
-![Giphy](https://media.giphy.com/media/1BfRhdymGVxDfnnHWZ/giphy.gif)
+![Giphy Alt Text](https://media.giphy.com/media/1BfRhdymGVxDfnnHWZ/giphy.gif "Giphy Title")
 ```
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](url "title")
+```
+
+## Alternate Image Code
+{{< image src="https://media.giphy.com/media/1BfRhdymGVxDfnnHWZ/giphy.gif" alt="Giphy Alt Text" title="Giphy Title" position="left" style="border-radius: 8px;" >}}
+```
+{{< image src="https://media.giphy.com/media/1BfRhdymGVxDfnnHWZ/giphy.gif" alt="Giphy Alt Text" title="Giphy Title" position="left" style="border-radius: 8px;" >}}
 ```
 
 # Links
 http://github.com - automatic!
+
 [GitHub](http://github.com)
+
 [Upstage](https://github.com/upstage/ "Visit Upstage!")
 ```
 http://github.com - automatic!

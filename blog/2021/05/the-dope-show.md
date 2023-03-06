@@ -1,10 +1,11 @@
 ---
+layout: "blog"
 title: "The Dope Show"
 date: 2021-05-03T12:09:08-05:00
 lastMod: 2021-05-03T12:09:08-05:00
 categories: [ "shows" ]
 tags: [ "programming", "tech", "podcasts" ]
-description: "Talking podcasts"
+description: "Talking podcasts. Hey there here is yet another brief description on what this post should be about."
 disableComments: true
 draft: true
 ---
