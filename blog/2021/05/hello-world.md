@@ -9,7 +9,7 @@ categories: [ "tech" ]
 tags: [ "programming", "tech" ]
 description: "Talking about Hello World My Guy. The good old hello world and stuff my guy."
 disableComments: true
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis vitae et leo duis ut diam quam. Amet consectetur adipiscing elit duis tristique sollicitudin. Malesuada nunc vel risus commodo viverra. Dictum varius duis at consectetur. Senectus et netus et malesuada. Euismod nisi porta lorem mollis aliquam ut porttitor. Sit amet consectetur adipiscing elit pellentesque habitant. Imperdiet proin fermentum leo vel. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Lacus sed turpis tincidunt id. Magna fringilla urna porttitor rhoncus dolor purus non. Dui ut ornare lectus sit amet est placerat. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Ornare aenean euismod elementum nisi quis. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Cursus sit amet dictum sit amet justo. Mollis nunc sed id semper risus in.

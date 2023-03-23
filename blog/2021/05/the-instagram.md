@@ -8,7 +8,7 @@ categories: [ "instagram" ]
 tags: [ "photography", "shortcodes" ]
 description: "Testing Hugo Shortcodes. This is me just testing out some shortcodes or something with media stuff."
 disableComments: true
-draft: true
+draft: false
 ---
 
 # Quote

@@ -7,7 +7,7 @@ categories: [ "programming" ]
 tags: [ "programming", "tech" ]
 description: "Testing out code with hugo shortcode"
 disableComments: true
-draft: true
+draft: false
 ---
 
 The below is a test of the code
